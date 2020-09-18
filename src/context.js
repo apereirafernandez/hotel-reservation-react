@@ -9,6 +9,7 @@ class RoomProvider extends Component {
     sortedRooms: [],
     featuredRooms: [],
     loading: true,
+    type: "all",
   };
   // getData
 
